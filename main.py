@@ -22,11 +22,13 @@ I can download all the components (.html, .css, img, xml, video, javascript..) f
 
 Send any URL,
 for ex: 'https://www.google.com'
+
+Please Join our main channel for bot updates
 """
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/WebDownloaderBot'),
+        InlineKeyboardButton('Main Channel', url='https://t.me/CloudUpdateslk'),
         ]]
     )
 
